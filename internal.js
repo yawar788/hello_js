@@ -21,6 +21,20 @@
 
 <button onclick="alert('Hello Yawar!')">Click Me</button>
 
+// Used When:
+
+// Small actions
+
+// Testing
+
+// Simple event handling
+
+// Not Recommended For:
+
+// Large projects
+
+// Clean code structure
+
 // 2. Internal JavaScript
 
 // JavaScript written inside the same HTML file using the <script> tag.
