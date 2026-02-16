@@ -82,7 +82,7 @@ greet(); // This works only if file1.js is loaded first
 
 // Best Practice in Real Projects
 
-// In large projects (like your GitHub projects):
+// In large projects
 
 // ✔ Separate logic into different files
 // ✔ Keep utilities in one file
