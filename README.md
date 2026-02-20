@@ -1,2 +1,2 @@
 # hello_js
-hello js contains the basics of js
+This repo covers the topics that you dont learn at college 
